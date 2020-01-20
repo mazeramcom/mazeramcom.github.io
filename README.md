@@ -1,2 +1,2 @@
-# mazeram.github.io
+# static.mazeram.com
 Static files
